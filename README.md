@@ -40,7 +40,7 @@ Put how manual steps and explanation for your projects setup by a dev in `GETTIN
 
 Put how to use and operated in `README.me`
 
-Use tools like ASDF or MISE to track your runtime dependencies in `.tool-versions`
+Use tools like [ASDF](https://asdf-vm.com/) or [MISE](https://github.com/jdx/mise) to track your runtime dependencies in `.tool-versions`
 
 Keep deploy scripts and details like k8s charts in `.deploy`
 
